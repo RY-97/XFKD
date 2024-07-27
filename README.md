@@ -1,6 +1,6 @@
 #  Feature Knowledge Distillation-based Model Lightweight for Prohibited Item Detection in X-ray Security Inspection Images
 The code for the paper " Feature Knowledge Distillation-based Model Lightweight for Prohibited Item Detection in X-ray Security Inspection Images".<br>
-![image](nets/XFKD3.svg)
+![image](nets/XFKD3.png)
 ## Requirements
 python 3.9 <br>
 pytorch 1.11.10 <br>
