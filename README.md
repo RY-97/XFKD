@@ -37,12 +37,3 @@ cuda 11.2
 ## Acknowledgement
 
 Our work was improved on the basis of FGD and also received help from the author. If you are interested, please pay attention to the paper "Focal and Global Knowledge Distillation for Detectors" <https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Focal_and_Global_Knowledge_Distillation_for_Detectors_CVPR_2022_paper.pdf>:<br>
-  ```python
-@inproceedings{yang2022focal,
-  title={Focal and global knowledge distillation for detectors},
-  author={Yang, Zhendong and Li, Zhe and Jiang, Xiaohu and Gong, Yuan and Yuan, Zehuan and Zhao, Danpei and Yuan, Chun},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={4643--4652},
-  year={2022}
-}
-  ```
